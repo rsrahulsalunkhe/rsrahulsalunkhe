@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/rahulsuryakant4" target="blank"><img src="https://img.shields.io/twitter/follow/rahulsuryakant4?logo=twitter&style=for-the-badge" alt="rahulsuryakant4" /></a> </p>
 
-- 🌱 I’m currently learning **django**
-
 - 👨‍💻 All of my projects are available at [rsrahulsalunkhe](rsrahulsalunkhe)
 
-- 💬 Ask me about **React, Python**
+- 💬 Ask me about **Python, Java**
 
 - 📫 How to reach me **rsrahulsalunkhe4@gmail.com**
 
